@@ -1,0 +1,9 @@
+Game 3 – Promotional Event DetectionObjective: 
+1. Analyze the correlation between variables
+2. Detect the promotional weeks for each combination of product and client
+Available data:
+• Historical series of sales units (volume and value) for each product and client
+• Prices (for each Standard Unit or sales unit)
+• Distribution of sales in each client’s store (weighted distribution)
+
+For a product, weighted distribution compares the sales value of pharmacies selling to the sales value of the pharmacy total
